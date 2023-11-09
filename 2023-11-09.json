@@ -1,0 +1,26 @@
+{
+  "name": "Charlie Webb",
+  "age": 36,
+  "address": {
+    "street": "Nadsa Loop",
+    "city": "Rohidot",
+    "state": "AL",
+    "zip": "97525"
+  },
+  "contact": {
+    "phone": "(604) 909-3719",
+    "servicePhone": "800542186"
+  },
+  "birthday": "1969-11-17T18:44:34.672Z",
+  "ip": "251.37.140.225",
+  "foo": "bar",
+  "profile": {
+    "about": "Bufos je cesfa dasfab kelwiw tuvekmi naguh vokzosvu miden isatakfij ujjeuw ka bev ce cikjataf tuh ti. Kec we giguvwud lug musguc eloewoaf laafle odrureh epje vo honaf ru le surintuf boterizaj jiwo duttopil. Felju bedfadpeg ilo lafor cuhifal nakbi vorli kucatze nif uc dour pocij sa zigih zu ovouname ruvof.",
+    "bio": "Zubeki hokvacuk izadu rutegas hinut vecof ruhkihbin unulimop ve ogiudsi ere leerime bogbehar. Weh nonohaf seetrul epsora can relo hop bazo kummet zeto gimuj zu hiipu mabipepo igogefoz dedaceh. Virbemdo ijceat jefwepi um gocez kicawsah nurafmuc abure wubti mit jadga aki voifduc leppetej abideja zumpavgu. Eg fakac gurakor eb jas girdirga rad baohda sadupuh sesoler fo so gunebieko id nigki ecvuoja zumopi buw. Papap ceseki wu orehe gulpe fu goloz gofur ruruage izvek vof vim do logef. Riluari vuro re uji fo tozil gawaca falidde hajiguw ka vadba johkutbik tincan ko mengille. Edhe gow iwaucedi weege rivuje givif bow cu fomese fihora etoz ziluc."
+  },
+  "apiKey": "88e22f9d7264d96ff7229404db9b6cef737d5c2baa7ffc1046a2a83e363e6792",
+  "currency": {
+    "code": "PAB",
+    "name": "Panama Balboa"
+  }
+}
