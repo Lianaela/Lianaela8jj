@@ -1,0 +1,26 @@
+{
+  "name": "Bruce Rodgers",
+  "age": 60,
+  "address": {
+    "street": "Lemwe Pass",
+    "city": "Afafusse",
+    "state": "SC",
+    "zip": "64031"
+  },
+  "contact": {
+    "phone": "(462) 937-6778",
+    "servicePhone": "800453922"
+  },
+  "birthday": "1998-09-14T09:18:23.516Z",
+  "ip": "209.192.53.58",
+  "foo": "bar",
+  "profile": {
+    "about": "Ko runu folit miz ekuisuwed poc ugajucoba now uchi wiwpifli ijag ra ub ubesi luwoji inirizun giuciili. Zahaeri aka wufgozah afduces fi alucat pugoca ol nu wopvu ocokbe vahkibori ifo dufra tehahe. Toj cujo we kuj li uvajo vuldilrah tol me gus zovot gonar lu.",
+    "bio": "Ge pi borwas wadip loclalo ej uh cif oguit oc mavifbov calji husut. Telu dupi uwava eka eja tipimge hesijra ricdil bewjek pesohat kelaaz bo jinotoloz duj. Bo supneb be ipcecal gugecac no waceso uvvar cioveve rikgat gihevge unbither ipavo epupakul filmarcu. Donke letu vumek ituhiok nucij nibib amfas icca onfiozo bo ad tuzetapu."
+  },
+  "apiKey": "e56c63e168cdf36ce6464cce4877a8b92128bdf714a39acf7eae0903b2bce043",
+  "currency": {
+    "code": "JEP",
+    "name": "Jersey Pound"
+  }
+}
