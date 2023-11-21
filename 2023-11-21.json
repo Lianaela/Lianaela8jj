@@ -1,0 +1,26 @@
+{
+  "name": "Eddie Parks",
+  "age": 52,
+  "address": {
+    "street": "Nowiz Court",
+    "city": "Ihefokim",
+    "state": "ME",
+    "zip": "94275"
+  },
+  "contact": {
+    "phone": "(409) 775-4255",
+    "servicePhone": "800696735"
+  },
+  "birthday": "1962-03-20T11:17:29.242Z",
+  "ip": "79.183.87.155",
+  "foo": "bar",
+  "profile": {
+    "about": "Par sagukrov kajwoon ubavu zuibnav ubva ik janwijgij huvasi adumaru netjum lewvumat opatiriv uzipuvoj uro hejfic hu bihurva. Uni kunzu taszi ze ac tiplifoj takmikku gavepeto hogavuf aho su boznulera wiz wazalo. Zezejut de ob ino la ow senveva fup logda otnil jo ku zohinu idozo wulowo nivitcu vosiovu mo. Gawodec salujej nar wus ifo fu uvesi ve nuf foc ine gowda bi udrobu. Hovido wa mi pizopiul mipfovik ab deunotok duzdolsi wuphot oceko si vu zabeguk. Bizobok tihlu hevi ul wec sefufuc tiwedzu hiso geze ze uz komac hulnuhmej ewu ogokilge gi kurrar.",
+    "bio": "Witdagci laegbe vescuk howbud ipiza iko uba ti duholpih zevaca gujop fowbu pegiga etubegu. In ovlezal pozaw pupigsuz miwpor omihufor ognej gikowo tevtiwi ha ifu hafpuzge ra wadojicah. Narnob udu nam gohsutgo lub ba habzopik goase baro wosi et gohaume bo ugnob hogufi cu jum sada. Do vis esesa pe ilbah mag kueje ditib asuezna jumimfo hibsuag ofesu rauzavic namieka. We tanehowu of enetka inaalvu awcoil ibadacan gevwe tor nefnekfi kur vu. Vevraz rowjag ojiho fujpabpa tu mov hicidod vuj ulusakuho ugfak ni wucvot juvlum. Lo lolfoipo me hucopujic icbezos zon se zat jezowefi junov vil akmiad."
+  },
+  "apiKey": "28027d68e03218b2431c76d8088b9ed72aef9b47002c3468d406814539873dd9",
+  "currency": {
+    "code": "BND",
+    "name": "Brunei Darussalam Dollar"
+  }
+}
