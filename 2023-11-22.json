@@ -1,0 +1,26 @@
+{
+  "name": "Edith Burns",
+  "age": 45,
+  "address": {
+    "street": "Depo Drive",
+    "city": "Ivahipu",
+    "state": "NJ",
+    "zip": "00775"
+  },
+  "contact": {
+    "phone": "(817) 693-7497",
+    "servicePhone": "800744918"
+  },
+  "birthday": "1987-12-28T16:11:05.476Z",
+  "ip": "88.38.106.39",
+  "foo": "bar",
+  "profile": {
+    "about": "Ih op ti ot nepunauj calzen uvefet zittek garbuv tal kescuf cupfek zubzemi tul garvuare monmoh kozziuga. Gu ic weros seunoani awatu fegis gejfusoji ne facanake ih oli roovde. Odedomiw gatugav dicjiw fu tev tafdil pahur ib heftinem oj uczotje gejudokac sewil. Mig riwo eziuc venevvuh nop fa su deun fe lil ikaje hektav za gu his nabuf bogninki.",
+    "bio": "Kuwal puttuku emata owi ze lip pojsih na ge vi lopfezlem perca ruf godov ago bi igifa. Kanefve vameliv fe voz wium opoji soz lep isipolig hi furi kif ga buwatga iwe. Ikarilsi suvhor jasel hovidvom sezi fut sir hinu surawe we tolwom onnarwab. Vijeh ew ipi ditoneg cusase zenfuz we tip hi na cenco ben ivu."
+  },
+  "apiKey": "151326d799012d23abc6e8ef62171612a307982108ce772e846716d104a9037d",
+  "currency": {
+    "code": "LKR",
+    "name": "Sri Lanka Rupee"
+  }
+}
