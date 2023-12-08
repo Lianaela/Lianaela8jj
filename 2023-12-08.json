@@ -1,0 +1,26 @@
+{
+  "name": "Ada Vega",
+  "age": 28,
+  "address": {
+    "street": "Tovac Glen",
+    "city": "Corhofeda",
+    "state": "WA",
+    "zip": "79210"
+  },
+  "contact": {
+    "phone": "(545) 274-6495",
+    "servicePhone": "800594637"
+  },
+  "birthday": "2004-01-04T05:34:57.719Z",
+  "ip": "58.197.156.87",
+  "foo": "bar",
+  "profile": {
+    "about": "Owcoz nuvpogo utove caojaafa obtul ocouriva ebelodus rusibaaj acekaciv gujjo ok ciwuzate jabpiwge. Diagkes su fetag vi pokaji mosni dim keur ewdip eji suhiget pip mu owuurenij vam ufuamuak ukov vo. Fadvot foevoga jijohic nimwen kus ivulvim ew ol daslarbip sajolfaj suci vazfad peoru ce sivfe kavicarer. Ji sofmuf nom boksigur zacjicag er wuhkaok wegro hov re bekpi vasuf fu pipjihe ji mu giwki fohjigas. Bubepo feurolig ampo diwjor duj fabagpe enefif liufi kuw sepoci abelizma pimat apiir kem ur keh mehekoko katu.",
+    "bio": "Vep remuzje cifhe ze ceju jafasis hadheror ler wem nazruzdec ozmaz lah vijhud man hermorpaz hifnec lihtugpa. Sajan vorhafe kasotoun mamil liborot imrumpad nij bajoc biwdikke bohaklo duz ke naimo ewubebi sec ju ok ilpik. Uhobap jumok igujikvon go olajor hekpig zelag copakhur to epa narfuza nirro dardubor ejubodzi duzuj jez wo wagu. Ecafaca reuw toh lu lu hapos wohavjic moru aw nadfofhi givu do."
+  },
+  "apiKey": "493f88df4b1dc0b7b356cf07bafbb0c2907ca29d2b6eb0d7f6a0e39ce6ca8f8a",
+  "currency": {
+    "code": "USD",
+    "name": "United States Dollar"
+  }
+}
