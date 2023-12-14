@@ -1,0 +1,26 @@
+{
+  "name": "Linnie Lucas",
+  "age": 19,
+  "address": {
+    "street": "Kimco View",
+    "city": "Cutojiv",
+    "state": "SD",
+    "zip": "41930"
+  },
+  "contact": {
+    "phone": "(543) 597-3707",
+    "servicePhone": "800375549"
+  },
+  "birthday": "2006-08-26T07:40:09.993Z",
+  "ip": "209.215.90.17",
+  "foo": "bar",
+  "profile": {
+    "about": "Ag hussi zu hejramih popri co ethof hewzolhe tol bo latgo bilek luespi fewtob wuk fuhmalec veceg. Wi we carazte he uz tohjuha kizro tandaig us kinusid hu recbicli hejpoh wodmonega ri ib. Anvo mok enacuk met listetvoj hef wi sis gu awuguzih jude maopiep.",
+    "bio": "Nev oso bihuke bocsi hauge zim un vec ho ar ve caodti ge lasgo vof cogarmu colaada. Azejugfoh hessalo hiovofi wumi wojikfub helawoef jacdemer ogagapef wuturaf og teg rohuz lehsatzih dapsubod tiv gajuci wuwefa. Kuosda kes ecbifre guhe nugog sivifje uwigigrol pu icbuz ofpi povcu joverep ge."
+  },
+  "apiKey": "adbad3491edcdcf217a72864f5700a9f534a2e919cb333510140c4c7e578b729",
+  "currency": {
+    "code": "HRK",
+    "name": "Croatia Kuna"
+  }
+}
