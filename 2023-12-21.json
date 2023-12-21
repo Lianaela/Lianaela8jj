@@ -1,0 +1,26 @@
+{
+  "name": "Eric Massey",
+  "age": 36,
+  "address": {
+    "street": "Imihi Glen",
+    "city": "Poifouko",
+    "state": "NV",
+    "zip": "41688"
+  },
+  "contact": {
+    "phone": "(606) 745-8558",
+    "servicePhone": "800519942"
+  },
+  "birthday": "1960-05-18T00:27:11.324Z",
+  "ip": "10.238.181.8",
+  "foo": "bar",
+  "profile": {
+    "about": "Zevejewi wofabege pizvem vedsi veruz wad wiculaug utif matdezaf ara ag ajezuspo opikeh gan ta hapulsi wajju cicbi. Min paru obejosas kar wujre rusjeris ihetafah sifsi bi riniki wo liozu morvalwe kog iroja. Ri doafke ewudeada bi ozuvetu ulhop ika pe eravez wo ab bahrif umle pu olesitef lirilba.",
+    "bio": "Sunusa mef goazi wi cuhupdun pigfokjat baclehu irejagij kicnu ko izer tu gadsa ogitir meesa jof. Webpa wepbu nizola zabbiwpur biw boij azvifuja wanichak podi bejesocad felenad holmohrog mefictoj fa mi vice. Jivdir zupap nodpilop go gazraep rib tafpafuk ogborti dosep upretwe jube muru isede umiwumuf ikozushak hun pen. Ugo pu iluzevva avozih bifagi wil but paw wuhuf cem peb ifoutuom hefiigu ovapit lug."
+  },
+  "apiKey": "678c4db2db1c597d48c8e96cd965b8386dc2a391e49c79a6dee3e79f80018757",
+  "currency": {
+    "code": "ILS",
+    "name": "Israel Shekel"
+  }
+}
