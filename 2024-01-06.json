@@ -1,0 +1,26 @@
+{
+  "name": "Matthew Abbott",
+  "age": 35,
+  "address": {
+    "street": "Reda Path",
+    "city": "Wofcofpu",
+    "state": "MS",
+    "zip": "86299"
+  },
+  "contact": {
+    "phone": "(917) 507-2012",
+    "servicePhone": "800132332"
+  },
+  "birthday": "1962-07-12T11:49:11.047Z",
+  "ip": "4.141.200.115",
+  "foo": "bar",
+  "profile": {
+    "about": "Cahezor cet fo duro mejli nuzboki ara ca re rowino gu otu ag. Gobofsev ek woroh fiswo av buovmob sekwi pubod kuzudgan fuf kujabi zu. Kac wogha to ki vap tona fafoku bebut do oneoli foon hov edcudu fi op gebcoc. Regmewo jezivti fez ules om so nuk uz esrufha jumuva ijeji mevajtoz ikug je anino.",
+    "bio": "Jefoage ugwabnid ezo wufobaati duv foj tesmibvit ba kokig feze lal so noj job gihuzwi ejbuvpur ili. Li jugurvi jakiha boap kekif tulmob zaveci fupun dujpepsop celpo bincoic wijutjab ucu gavgovos werses. Dalel natusub fipeha vulvac letbare dazuk kuffulep bu ap lalbemij jecebjo desleuh hobsar si iwiiwu."
+  },
+  "apiKey": "74d123e55f2b1b00802bf7acbd6eb0e671b3846cf36cf600e1a98a78bf96c2ef",
+  "currency": {
+    "code": "BSD",
+    "name": "Bahamas Dollar"
+  }
+}
