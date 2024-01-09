@@ -1,0 +1,26 @@
+{
+  "name": "Ora Alexander",
+  "age": 48,
+  "address": {
+    "street": "Muhu Loop",
+    "city": "Oktutuz",
+    "state": "AK",
+    "zip": "31986"
+  },
+  "contact": {
+    "phone": "(362) 818-2057",
+    "servicePhone": "800795144"
+  },
+  "birthday": "1995-10-30T01:05:42.268Z",
+  "ip": "157.198.106.204",
+  "foo": "bar",
+  "profile": {
+    "about": "We vobes pabfe de pepa ef to ba geb zef se bih uwa sifubwug. Talokibu pof pugu ernod vugirib ivco wipto be waovma fupabi gozes eb coighaj. Vola nekzetaf widopi le cenpel ivimufe ol urowun ro mamcino va ujaijaju curu. Em ivvunit vuc acofiken rujlotdo izuzucilo lena af wepof fegip ewettu saun.",
+    "bio": "Powkozrik jegotra codlohaku koigiug sez mecinhem peb wopulfa rafhef winje radbum kukef mek. Pin uze zimpod ula mit buv no fawab baz galu oparuore iw. Pizogsi jap nez apa fauj gaufrup sa deoza ci oze ba pum camacvu medcarhu nahagco gianah ha."
+  },
+  "apiKey": "d5917daa2eda5ec5b055463afb9363fb58f7de58d16254a601a7354a2e1ed922",
+  "currency": {
+    "code": "BIF",
+    "name": "Burundi Franc"
+  }
+}
