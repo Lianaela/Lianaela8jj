@@ -1,0 +1,26 @@
+{
+  "name": "Nancy Gregory",
+  "age": 48,
+  "address": {
+    "street": "Alav View",
+    "city": "Cenhumif",
+    "state": "OH",
+    "zip": "61715"
+  },
+  "contact": {
+    "phone": "(439) 256-2570",
+    "servicePhone": "800561895"
+  },
+  "birthday": "1962-03-22T20:31:47.736Z",
+  "ip": "183.166.239.106",
+  "foo": "bar",
+  "profile": {
+    "about": "Vin silaove furved zabje pike juvombon tu ravve fi ugoleto zeuz jec sotah kug reb in huoreesi. Ne cofitwis ocu re fitnir tithilci seswi civepif arijicpa ec na bikvevuw. Rip nigewe unaweh jor koz lodmit juwwurin lalkemar fe rasager liobedu joewloz gaor ekjukmet ewzuego azwadzez cagota cepob. Parafa wof elocoko winhe jidic tourte imuazapif dadah se hah milez hivsaif.",
+    "bio": "Hija zehvu hebgo rafa nuuv bemneweg rarefvof rewiw rojem niz wa medfifog resupe. Cupo kuih selogwaf his dobze dep hirmiuk dizidus giv kocsuknal itro zuhev oszu do. Cuurvaz mezomla zac sadhumu itujetu diobdo huskis doznopep rac wuziize hagazu hud zo."
+  },
+  "apiKey": "e9da571be606d2d3d2d08fc32a1f08e6457c0973ed9eadb6e3670130a261213c",
+  "currency": {
+    "code": "GNF",
+    "name": "Guinea Franc"
+  }
+}
