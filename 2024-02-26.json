@@ -1,0 +1,26 @@
+{
+  "name": "Maria Nguyen",
+  "age": 65,
+  "address": {
+    "street": "Zezut Circle",
+    "city": "Jaoreje",
+    "state": "KY",
+    "zip": "39148"
+  },
+  "contact": {
+    "phone": "(389) 803-6121",
+    "servicePhone": "800147941"
+  },
+  "birthday": "1969-05-14T11:53:58.023Z",
+  "ip": "81.191.67.121",
+  "foo": "bar",
+  "profile": {
+    "about": "Dooku dusalos cazzavvew dunpot guzheltol jor feljebmaw povefot zaruhaw idiva nijiked gutwegap gevji cam zevrigpiz. Opiw zeg minipomi riv zike wop jaloik ik ogiec urvetal atfe ci kifeb. Timir fobufow hivalen irezazve va izarajbu fizserlu jaej habalib jak fenpedu poiklis eg vije kaohoge. Toifufe miho bo polnado hozutnis tuh ojoradur vesum haf titdi wuwotdig cag toah tis leci gaz kus cefse. Po harope pon kiletda zaujmim zavojo hafaf vijocson jadige kidfo zaho pupa ijefir iguwoze de. Jo kemiifi pow rol ovnoko ful weriv huci imehu uvu si aduvovi si winecbad zoko ed foriop.",
+    "bio": "Jekoha rol cakvu weflewi sos nuzom nizabiz nak tedsoci hed jug mufuj hijitar tu gewur. Poc ratov lotev misza enavuzgew roji cekot ogezejwi eg motvalmim vel ucicar temmer deg fajumcu fiofku mijev. Asatej ag juve tattef hih azuwoag tibbohcu ahugek zug obopin go fo pe pallage wukac ku. Uzmebir alji viklotso zeco sel vonwevzu oruowe ji zeafovo sorluf pugmeprus sudlonpi rowa uni. Ga ga imelejsal dimup ucuja su wasrofi tugce ap lorupar bunul avevivnug muriha da piz linufve afavir. Vovheko wacazjep gavuhnev coc fejrohpug beg lig oro ughopca hezov karhosob rudtorol ikikoce av vicbon mamifmo giz ezojag."
+  },
+  "apiKey": "b98f7f4c7dddb10a0e8b48e3ca64fda656e5897ca84fb5069eb4afcad9e903e2",
+  "currency": {
+    "code": "XDR",
+    "name": "International Monetary Fund (IMF) Special Drawing Rights"
+  }
+}
