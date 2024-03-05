@@ -1,0 +1,26 @@
+{
+  "name": "Don Herrera",
+  "age": 19,
+  "address": {
+    "street": "Busbu Grove",
+    "city": "Komapov",
+    "state": "LA",
+    "zip": "58406"
+  },
+  "contact": {
+    "phone": "(217) 508-5252",
+    "servicePhone": "800136797"
+  },
+  "birthday": "1974-05-16T12:51:53.954Z",
+  "ip": "213.106.63.60",
+  "foo": "bar",
+  "profile": {
+    "about": "Eca jiek onkas ji fipukupaf pueta te ibe cidapne ecalavaw vub okiag vakilce muvu il bopawdic ignu. Acelosvi vo mocad ab tomma huapeges lanwifcaj rokkef moj ni il hemle riihamik nublin sebiwe na. Loflo lec pud afmagbi cecbuti pusezvo muf jacnupkab cawvunavi kow ut sembo bebulafe seuzued zow. Zecpo ji meb huivbuv wiapvih cis jieni cuhe eru ofi ogvo unjis os tovejaela zaozjid ovso. Ruer jadzo enkas wigu ojgowpid aszabjin fek riwlujuz ob eteepefu suktaplet usicez.",
+    "bio": "Om lijteji juzkab zejjeb otoitipu pashu retalpi uvonu wid seko jejve rudu gehpi hotwu bic sadsumohu. Voew fif aja wiwogid ere zimheh ho cenvekak etobi pokka vek he gotwed. Jidzos on nopombo hom giz cuger runcoz bobah hewkol komenapi sa ha lihguf. Lecle racawur han ilidus viafanar heevi hiuvo mud bag uninej nima foje. Os dabit umabutna surovmi vic kavwuj coc ladmik ehuusa cola let ejumun cazteg ka."
+  },
+  "apiKey": "21e93a6d8620b9bcd09bc844d332bdf6094bbbd7268f9e36686323b4e53a9550",
+  "currency": {
+    "code": "DKK",
+    "name": "Denmark Krone"
+  }
+}
