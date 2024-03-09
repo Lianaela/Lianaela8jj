@@ -1,0 +1,26 @@
+{
+  "name": "Frank Adkins",
+  "age": 37,
+  "address": {
+    "street": "Ikeasi Street",
+    "city": "Donkufal",
+    "state": "MA",
+    "zip": "14747"
+  },
+  "contact": {
+    "phone": "(274) 912-2629",
+    "servicePhone": "800686575"
+  },
+  "birthday": "1989-07-19T11:56:18.095Z",
+  "ip": "50.96.235.253",
+  "foo": "bar",
+  "profile": {
+    "about": "Voemo ojekagic nit asimagud sehzena huzononi fiwe ake wigur jisibmes ojtu cawfuk vesidiji zu. Kovi ni ibo zopocpaf dompiso wug usal fa ezec uho usi dof osum ika. Wu ramiwi ih cev ke obrufek huj dug pulkatfiv jisawhup ni honuz. Muzuk zire medriv tubup rizmufu wuhit la davbabag ipoada uba mijaj celkozjur pubotbeb imofivepo suzdipul. Miz hunuru todug rogligom canaweuhe akkar sonupedo jov vovalavi tu ahu huvumed go so huj ca juon.",
+    "bio": "Vegotima kees lujron garge ke tudfeduz ga lusirzic sokeb amacej kuskone kowizcu viof vebasow ili ip notaepe zif. Mozvis rannik ko uv vuja gej mu lunhoah to holzagemu abiduis eh. Veh pavsoti lahevkaj medve rocarow mikocat ol da imiin zatez naf paeg ijlebuc awoseghun hojarik niawu wumeso netka. Luh no ihovovez rigce maserte botvauni gaf tekkeg ju duhve duhiz arodufleb. Jocop gaz lo hoga leh tujop zo po popaldav ikta luvenez ci nipifi gollusgo."
+  },
+  "apiKey": "2f23c706308b2d5c8989b6161c26f06cb049c7bc706fa458581748ce913995a0",
+  "currency": {
+    "code": "ZMW",
+    "name": "Zambia Kwacha"
+  }
+}
