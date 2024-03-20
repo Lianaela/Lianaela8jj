@@ -1,0 +1,26 @@
+{
+  "name": "Patrick Robertson",
+  "age": 54,
+  "address": {
+    "street": "Viga Loop",
+    "city": "Giticov",
+    "state": "HI",
+    "zip": "48972"
+  },
+  "contact": {
+    "phone": "(805) 628-9046",
+    "servicePhone": "800566157"
+  },
+  "birthday": "1965-06-17T11:10:42.035Z",
+  "ip": "114.51.126.90",
+  "foo": "bar",
+  "profile": {
+    "about": "Meurre zelo uvaab viczev na jijac zeac hu af isje betko so nomzi jil. Omhojifa ecewusuf jir dewrapu jek baido furaz hoc feabo jetizju as luic bapi lez. Vewmilif itizofo sabib piifwu mehozso ke ucaiwsi adsaw mak ocovuji hul suzu.",
+    "bio": "Ce pewimwas kauf nini awiwa gainfew rojop rut gilcu vohje ige ve ocnuk. Comaetu kuurno hum romilup bacetga ene luh vag citis tomjubbo nan ep ma zif. Lu hizatdez naidfo jovcef cab rodhisfe liwu bompaz vumic kadsubogu mahrabe pape iwgebsin raw mum guz. Ah suv roce bi garuc pujfoblu uti ifoataboz iku jonufce usme kiv los kahliwuh gak hanetug maupi inaijhig. Caka veoheli fuh ke me wazrur teurubu pasjijla moomo lelta hewuhu taip cuma hofowug. Bamok coh unvi uwvulfug ugpi pudrik mivlegag gifotgir recap rikuad visal la guv lipubo ce. Mit fal emheju dunzim noddeb cizvu cunuk uvi lez fowdo rilot diujnac vesku udabbu jefij."
+  },
+  "apiKey": "3136ba6b5ea5d437b5a1f2db6ec55980594de925a15ef12c0701402fcf7893a9",
+  "currency": {
+    "code": "IDR",
+    "name": "Indonesia Rupiah"
+  }
+}
