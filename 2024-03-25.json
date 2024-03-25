@@ -1,0 +1,26 @@
+{
+  "name": "Brian Marsh",
+  "age": 41,
+  "address": {
+    "street": "Ovir Place",
+    "city": "Zosagwi",
+    "state": "TX",
+    "zip": "67534"
+  },
+  "contact": {
+    "phone": "(332) 503-1693",
+    "servicePhone": "800582615"
+  },
+  "birthday": "1985-07-10T02:30:58.152Z",
+  "ip": "99.88.1.228",
+  "foo": "bar",
+  "profile": {
+    "about": "Ju pocmu ukzejig mol jum borvo tib lozoz fe ene iraavvu al icwuen bezmadevi mogugza afwop ora. Masi hiszih fodtishir wokfuc wep mehealu inanegon hapjommi lowger wosoco zuipoji kesalo lucvof faf gidpa. Owrasod fol nor cumiz aszahfap bag gekuwmep hafzipen sori it duzgoovi nampa nuf wiroes milun vuntujit.",
+    "bio": "Zup sew kum vumfo lealo raara sip pem mofice asgel jojzeso ididekoz pom la. Kirijma ibhob cu awfe lukovsib nojactes za divhisrum tikzop forvuhdoj zujuv higestud sampo obibumke dol. Jamhu arhubu visves pepo tufivwir ad puw ketporos hin fahkuk zuncozrub mo nuzut cu ho lem mezadu. Pezlohu epujuvbor omodolok ketlaj imakon soha zutli ja cakav micen hirmitit mi upalec bizdejdin gahnude suiba."
+  },
+  "apiKey": "ac83d18e7b01129de8fdc3cd61db47403099ad7213a5d0b06380f64097a7dcce",
+  "currency": {
+    "code": "BSD",
+    "name": "Bahamas Dollar"
+  }
+}
