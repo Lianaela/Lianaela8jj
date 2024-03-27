@@ -1,0 +1,26 @@
+{
+  "name": "Jared Carr",
+  "age": 21,
+  "address": {
+    "street": "Isieba Key",
+    "city": "Ruvoic",
+    "state": "MS",
+    "zip": "64796"
+  },
+  "contact": {
+    "phone": "(321) 551-3873",
+    "servicePhone": "800867159"
+  },
+  "birthday": "1991-06-23T23:21:53.880Z",
+  "ip": "143.21.97.245",
+  "foo": "bar",
+  "profile": {
+    "about": "Isa veluiji miapuag ni ekupi uvco eninuon dido kod ico en dehcav si zed. Donwus aga secar doowko alipcuz pum vosdavram ilwi dujet ahi pobluf toalabi cofgag nuc leluvo ra kewcini tuni. Dok cusehset icodad hono sodba rak bakisago osumij zoltuh nebuf jestopjah vo refu lojcub hofbecef zeawoom. Deihure gedir dipez faflofrer tufehibu so bo fudcarhi pa teameve umruno sujacpoh wemnurim birce oj.",
+    "bio": "So gorco juweev pevmutimo webadlus egojusi agiro wefkamna didolco kalek vesomet bumupfo. Vivcisab nap golasa zaluf vamvim peke nib bag ewema tussuwo imgilmo mi. Hicrem sihu tu mo ophibme kezhi remgoleh ol anke av omeir mizze."
+  },
+  "apiKey": "8d96515b92a7ff061efb18687503ab460a4af8986078f7fef4b2f72030a8cc62",
+  "currency": {
+    "code": "KRW",
+    "name": "Korea (South) Won"
+  }
+}
