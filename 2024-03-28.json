@@ -1,0 +1,26 @@
+{
+  "name": "Ricardo Cortez",
+  "age": 44,
+  "address": {
+    "street": "Muga Turnpike",
+    "city": "Zemuris",
+    "state": "KY",
+    "zip": "33640"
+  },
+  "contact": {
+    "phone": "(902) 503-3388",
+    "servicePhone": "800259246"
+  },
+  "birthday": "1979-02-20T08:50:03.781Z",
+  "ip": "58.229.73.43",
+  "foo": "bar",
+  "profile": {
+    "about": "Co ha vu poziv iruc ronumu dabih zab fodiz wu neru vujohgi po oho ge vafawva ga. Labun bo ohwosa wiczefzoj nuvegzu mat zocuzuh kujsoj lari nuhku feufo fesukeju cez wasnakah hivo. Juwlugu les tem simmujmi dotako vavidap etucu javget owi nigdetmos at afehobloz dekmi piwi.",
+    "bio": "Ahomu niwwa bikez jebwed vaf af kicujed odinawuz bah wu lowamoro bus. Opu lordafbob tadfilhit iju mocor vadjejem zece hedminla wumzejte di nim pepdeh agazerho sipgo. Ihizi bouju fezec uza irenolo bimefvod zejna sejkopo tejon warnuffu osube gin bavjem fumok. Fe icawadim sejac laib powob esdagaco zefigo bajeec jegfekug hu lauwe ifofamfol redohnum giv re wol. Behaz dujusen rug defuhire hutot oreigsif lin duncuk molefjol tujeg jehimaw libazrav ijaiza tor."
+  },
+  "apiKey": "1e28acf6b776071ac453633d1681a2ecb325eeba92d881ffc47145c9216e4a5a",
+  "currency": {
+    "code": "PKR",
+    "name": "Pakistan Rupee"
+  }
+}
