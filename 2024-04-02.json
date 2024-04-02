@@ -1,0 +1,26 @@
+{
+  "name": "Andre Chavez",
+  "age": 23,
+  "address": {
+    "street": "Kisziv Extension",
+    "city": "Jamsizupi",
+    "state": "DC",
+    "zip": "73028"
+  },
+  "contact": {
+    "phone": "(670) 490-9382",
+    "servicePhone": "800684761"
+  },
+  "birthday": "2005-07-13T20:29:52.209Z",
+  "ip": "68.213.238.223",
+  "foo": "bar",
+  "profile": {
+    "about": "Uciweji hog potzuw emisoj pukep rehus wutuc lumecica wadhig becedme zevakoc re va bacaw. Ilijo kiw jicfiliv lufilogi giji rej cito ripka kalbehah ni taloto he asiorucen gedi. Dimug ulumof vepe kipop pelanugu tep goma febso ifizu secaib imohejez fite wo rajef. Bimapo ejo jigajnu moledas ceb wu cavdov disvudehu fa he ab turah fu poij jelawo houvohec nol.",
+    "bio": "Kip res go ga hifwic asechow hon kan todesusu mahle raheju litji ka cep naad umi epnuc noblub. Suin bol zufazu mennos digan setceg nikefuh dooh dabi gutabow tirbazoc je zoris umebes fat donoz. Ansor ecihoda omilubri sanuj jiki zup wega rucbocri tamalfe hod jehzo niewbef jivbetoki namef bukaek zucapiko vomor. Haspu ebiufoz gunvu pagpop gugen rale fo vovge awma po remut piogi wonuc tuhki pujaloduh pe. Lupwam da dimwi anegip jofuh icaimiza cenzir toaj ruz konmoc curozto utvu zepi."
+  },
+  "apiKey": "d4047b5873464f824153355b334cab31ba5e5612e615e68bbaad6e4b9b03daed",
+  "currency": {
+    "code": "OMR",
+    "name": "Oman Rial"
+  }
+}
