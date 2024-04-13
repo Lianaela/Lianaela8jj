@@ -1,0 +1,26 @@
+{
+  "name": "Irene Todd",
+  "age": 18,
+  "address": {
+    "street": "Gajo Ridge",
+    "city": "Gekasec",
+    "state": "WV",
+    "zip": "73610"
+  },
+  "contact": {
+    "phone": "(550) 789-3530",
+    "servicePhone": "800471238"
+  },
+  "birthday": "1987-08-19T09:30:47.574Z",
+  "ip": "107.58.28.202",
+  "foo": "bar",
+  "profile": {
+    "about": "Ofapu ki nita okehuzuc kusa jeg ruusmog epag ne mimkavi japu cupeji nuk pim henadjej lormazuc. Uj fi ez niz jijgahpuj zizilan pamehur ze wo rizun tomzon gual. Seasubo ota hum berig semjigod jovaos ife ha cionhib ves fene fioti gupisle turco jiru ibromzaz ta. Efanih ka winat mizov pu it befguum ema oko duju ne eglut. Lemjo osaosi cov inugitbuc zuwwe fojej zumel dif ife cinuv lec gapi tefic pitlih ni.",
+    "bio": "Zum zo biri voguac wisuiw bivhe hin tup osil bitobce lapgemzol fimuzir bomtim huwuk uf. Teanu watarwip pijpi umbuge vedaz cikufe ikoug nov pic fejmofbe upided horle jujpa. Odpoti fajfisvod ziwpov muurhag kupwa niwiri heer okevucat gehurdat fowe izhuwil uv bun mef uzwiri."
+  },
+  "apiKey": "d9bab776de0cf5c896c8777335faa21f76e529f6ac18287862d4e7bbe68bafa4",
+  "currency": {
+    "code": "ETB",
+    "name": "Ethiopia Birr"
+  }
+}
