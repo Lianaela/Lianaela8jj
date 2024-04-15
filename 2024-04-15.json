@@ -1,0 +1,26 @@
+{
+  "name": "Eliza Butler",
+  "age": 31,
+  "address": {
+    "street": "Acuod Boulevard",
+    "city": "Futocuc",
+    "state": "FL",
+    "zip": "92329"
+  },
+  "contact": {
+    "phone": "(625) 306-1644",
+    "servicePhone": "800478387"
+  },
+  "birthday": "1971-10-16T02:24:48.893Z",
+  "ip": "253.54.14.198",
+  "foo": "bar",
+  "profile": {
+    "about": "Veada kej fovvafu iczuof iguhato hef zi zehzon ul niire opeowilek gatoni gin wukatut mahme nu. Oda liobewu di naw temul luruik boojzik motoip nirobo siwco holmo wel edecechos. Lingekaj woefeza ulaica kuskosca osodid nod seine davun peseloj kam dehak it get houhu pu.",
+    "bio": "Pihen volaju pi buw zunid uchik buwimeg jirafot luzzoaze ma tu tal. Keki jok tiju memse fukta je mojhusco mav cobbi bajaj nim hif ku cuzunuip gilasni. Mucbe rip pieflic af tom mu pov pud jeg ta naji cajacu imricaf oga ko livnesep sanocpu. Ce ticu ge hecnifenu satiren adale ke tok dezewdo ide wefic mevo jevefmut pavani."
+  },
+  "apiKey": "cfcd5e9ce91c0f6ec7d17db0fec430e74028eba45624d15eb394dc1e442df6eb",
+  "currency": {
+    "code": "AZN",
+    "name": "Azerbaijan New Manat"
+  }
+}
