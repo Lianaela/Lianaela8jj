@@ -1,0 +1,26 @@
+{
+  "name": "Ivan Goodman",
+  "age": 56,
+  "address": {
+    "street": "Kiga Parkway",
+    "city": "Finato",
+    "state": "WY",
+    "zip": "04464"
+  },
+  "contact": {
+    "phone": "(637) 300-4977",
+    "servicePhone": "800841652"
+  },
+  "birthday": "1989-09-03T03:59:22.853Z",
+  "ip": "39.49.19.220",
+  "foo": "bar",
+  "profile": {
+    "about": "Ca jisfaf idmum ut ulcian iw ipu ga ned fukez uj cafegepi gavpeati uhefo apemivode owo vi. Ivi pig kugewlif zusnandiv an kure tawav pivofne owi miwapsiv racuuci geg so. Zonu siw papjevla aftaspel riwospi vued jufzeh pos rijzile du hojcer tiuli regruh zu. Ma janpacjoj tamkijciw geluwhoj cajodotig cojoso hangano jelrafag degoeho fef celsu wodkutsac vipu. Zi guhi be uhpawbak umip ok jujapu femnid ruzwa joz bitwajka ezunisa. Sa rebhop zipumod oroacwa kizize vu akizig himbi podavta ed mosobfo pizzev wu. Zogoani wavcen sobirave gegva jituora awadam ogunu raiwuova hij da ajmu bo dunvunkil hanapuri.",
+    "bio": "Hihop so pudekup tu edoale vuvjo subebo wurvohor nofca jean gudbencul gasgi lakdogli dig eb deptaban. Tatoc fecvop ottusse jusrur kerafu wageemi ogodowso boew pudkiw aje he wicfupar riza tum. Vab gi jag oji hemwonhaz suhvu ine sima juge gevuewe zipi fofjerja pasipeih."
+  },
+  "apiKey": "bda1758372ed7f26cb3a89f35a98f04c633b3c06a7b609e076f618506afb90e3",
+  "currency": {
+    "code": "CDF",
+    "name": "Congo/Kinshasa Franc"
+  }
+}
