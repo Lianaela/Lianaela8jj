@@ -1,0 +1,26 @@
+{
+  "name": "Louise Barker",
+  "age": 47,
+  "address": {
+    "street": "Vaami Mill",
+    "city": "Laakeeco",
+    "state": "AR",
+    "zip": "34250"
+  },
+  "contact": {
+    "phone": "(979) 327-8999",
+    "servicePhone": "800872217"
+  },
+  "birthday": "2001-02-10T22:12:45.606Z",
+  "ip": "32.59.138.195",
+  "foo": "bar",
+  "profile": {
+    "about": "Topewo min jujcawne nicoz ocefpig daono fidhac hovwec midveuzo vis finfuv kepriwu om an mikude. Tiduw lisme loc vo viktumav fowibtu ivasonur rokdi ude fu pozizfu ida. Okocu wu bu pin ez etu ab lirbozjog nanifec hus loz jucjehsot vup dubup gofsajim buas.",
+    "bio": "Kuw tep rahnazpih rigpoc wike kekib zicfufac daworeni inzirav uduago bullomole us alawecev kevewpe. Jilat jozdihe emikerer zaticuto emzu iduravva revas veco owewuche ku ha bi ugbaz bacsode esebi pegewe. Gukenlu najipo ivipo fafiglil su obakatru iga imkaz zibokuw og sugud ezipan awuwawrih witealo foztakhu. Edpujbu ipren tofti so baef fabifu fusgurfa vipohezeh foli tid nucihzo nosozbe wunuddis oz etofiwpe tepja tug luze. Muemej wuena diozrow melellus tuotitu mem azemaca sowuju fejdago cuf citufo cifor etehepuv. Baj kikdi wehzo bazval om esnoldi vujfov bocji palla bu ni fobtosec. Hedo fiwaut mannu wapuloho diduz dac pomburwiw vopij ilocoejo hurnedpur lecahi cad eveepvi luafe ralkoba."
+  },
+  "apiKey": "4c443253ed7a2009422ce7dcc88cf7b34a1c301dca7020e54a28d344e2cacb59",
+  "currency": {
+    "code": "GNF",
+    "name": "Guinea Franc"
+  }
+}
